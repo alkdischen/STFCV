@@ -21,4 +21,6 @@
 
 基于Python版本3.8，只要是Python3均可正常运行。
 
-文档需要的库包括`numpy`与`matplotlib.pyplot`.
+文档需要的库包括`numpy`与`matplotlib.pyplot。
+
+直接运行`kNN-Cifar10.py`和`kNN-MNIST.py` 即可。
